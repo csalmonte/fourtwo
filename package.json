@@ -1,0 +1,16 @@
+{
+  "name": "petnet",
+  "version": "1.0.0",
+  "description": "installation of npm projects",
+  "main": "index.js",
+  "dependencies": {
+    "datatables.net": "^1.10.19",
+    "datatables.net-dt": "^1.10.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

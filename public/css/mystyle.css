@@ -1,0 +1,93 @@
+* {
+
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: url("../images/bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.section-optimizer {
+	padding-left: 5%;
+	padding-right: 5%; 
+	padding-top: 3%;
+	padding-bottom: 1%;
+}
+
+
+/*Main Logo Top*/
+#main-logo-top {
+	padding-left: 5%;
+	margin-top: 8%; 
+}
+
+/*For Icons in navbar*/
+.fab {
+	color: blue;
+	font-size: 2em;
+}
+
+h4 {
+	text-align: center;
+}
+
+.first-title-greeting {
+	text-align: center;
+	font-size: 1.2em;
+	color: #50504E;
+}
+
+.second-title-greeting {
+	text-align: center;
+	font-size: 2em;
+	color: #50504E;
+	padding-bottom: 2%;
+}
+
+.third-title-greeting {
+	font-size: 2em;
+	color: #50504E;
+	padding-bottom: 2%;
+}
+
+.third-title-greeting {
+	font-size: 2em;
+	color: #50504E;
+	padding-bottom: 2%;
+}
+
+.fourth-title-greeting {
+	font-size: 1.1em;
+	color: #F0DC1A;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+
+
+
+.right-block {
+	height: 200px;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: black;
+	float: right;
+}
+
+.rem {
+	margin-top: 10%;
+}
+
+.footer-design {
+	background-color: #191919;
+	max-width: 100%;
+}
+
+div.container {
+        width: 80%;
+    }
